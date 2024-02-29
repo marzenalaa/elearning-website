@@ -15,3 +15,8 @@ Additional Notes:
  - The code may not be fully optimized or follow best practices, as it primarily serves as a learning exercise.
 
 Live Demo: https://marzenalaa.github.io/elearning-website/
+
+![image](https://github.com/marzenalaa/elearning-website/assets/16385263/b48ddf87-d449-4b72-937f-395ca2854e63)
+
+![image](https://github.com/marzenalaa/elearning-website/assets/16385263/6fb43f72-ab9e-4b12-a1fe-ce0d3a125171)
+
