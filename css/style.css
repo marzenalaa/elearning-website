@@ -149,18 +149,18 @@ nav .burger-menu {
   nav .nav-links .nav-bar {
     display: none;
   }
-  /* nav .burger-menu:hover + .nav-bar,
-  nav .nav-bar:hover */
   nav .nav-links:hover .nav-bar {
-    display: block;
-    position: absolute;
-    top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    top: 55px;
     left: 0;
     width: 100%;
-    height: 350px;
-    background-color: var(--bg-color);
+    height: 100vh;
+    overflow-y: auto;
+    background-color: rgba(0, 69, 58, 0.95);
     z-index: 20;
-    flex-direction: column;
     opacity: 0.95;
   }
   nav .nav-bar li {
